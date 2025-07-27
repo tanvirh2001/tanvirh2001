@@ -22,7 +22,7 @@ I'm a passionate Computer Science student who loves building real-world projects
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/tanvirh2001)
-- 💻 [Portfolio Website](http://127.0.0.1:5500/tanvir.html))
+- 💻 [Portfolio Website](http://127.0.0.1:5500/tanvir.html)
 - 📧 Email: tanvirhossain0900@gmail.com
 
 ---
