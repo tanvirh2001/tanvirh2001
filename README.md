@@ -21,7 +21,7 @@ I'm a passionate Computer Science student who loves building real-world projects
 ---
 
 ### 📫 Connect with Me
-- facebookFacebook: https://www.facebook.com/tanvirh2001
+- Facebook: https://www.facebook.com/tanvirh2001
 - 📧 Email: tanvirhossain0900@gmail.com
 
 ---
