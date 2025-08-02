@@ -20,11 +20,7 @@ I'm a passionate Computer Science student who loves building real-world projects
 
 ---
 
-### 📫 Connect with Me
-- Instragram: https://www.instagram.com/tanvirh2001
-- Youtube: www.youtube.com/@epicfootballshorts.official
-- Twitter: https://x.com/tanvirh2000
-- Facebook: https://www.facebook.com/tanvirh2001
+### 📫 Connect with Me-
 - 📧 Email: tanvirhossain0900@gmail.com
 
 ---
